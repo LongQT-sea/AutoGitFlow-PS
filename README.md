@@ -30,7 +30,7 @@ Tired of typing the same Git commands over and over? **AutoGitFlow** brings Git 
 
 ## ⚙️ Installation
 
-1. Choose the registry file:
+1. Choose the registry file from [Release](https://github.com/LongQT-sea/AutoGitFlow-PS/releases):
    - `AutoGitFlow_admin.reg` (Admin)
    - `AutoGitFlow_user.reg` (Non-admin)
 2. Double-click the `.reg` file to add the context menu entry.
@@ -48,7 +48,7 @@ Tired of typing the same Git commands over and over? **AutoGitFlow** brings Git 
 
 ## ❌ Uninstallation
 
-Run the matching uninstall `.reg` file:
+Run the matching uninstall `.reg` file from [Release](https://github.com/LongQT-sea/AutoGitFlow-PS/releases):
 - `AutoGitFlow_admin_uninstall.reg`
 - `AutoGitFlow_user_uninstall.reg`
 
